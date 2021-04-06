@@ -1,0 +1,26 @@
+table,td,tr,th {
+    border : 1px solid black;     
+    border-collapse : collapse
+  }
+th {
+    background-color: burlywood;
+}
+td,th {
+    padding: 5px;
+}
+
+button {
+    background-color: cornflowerblue;
+    color:white;
+    font-weight: bold;
+    cursor: pointer;
+    border:none;
+    padding:5px;
+    margin-top:10px;
+}
+
+.error {
+    color:white;
+    background-color: red;
+    
+}
